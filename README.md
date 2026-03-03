@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Whatthesigma.no](https://github.com/MartinLime06/whatthesigma.no)
 
-- 🌱 I’m currently learning **TailWindCSS and React**
+- 🌱 I’m currently learning **React Typescript and C#/.Net**
 
 - 👨‍💻 Some of my projects are available at [tangenlab.no](https://tangenlab.no)
 
