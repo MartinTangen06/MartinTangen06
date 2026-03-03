@@ -2,7 +2,7 @@
 <h3 align="center">A Junior Fullstack Developer From Norway</h3>
 
 
-- 🔭 I’m currently working on [Whatthesigma.no](https://github.com/MartinLime06/whatthesigma.no)
+- 🔭 I’m currently working on [Whatthesigma.no](https://github.com/MartinTangen06/whatthesigma.no)
 
 - 🌱 I’m currently learning **React Typescript and C#/.Net**
 
