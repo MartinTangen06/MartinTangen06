@@ -2,7 +2,7 @@
 <h3 align="center">A Junior Fullstack Developer From Norway</h3>
 
 
-- 🔭 I’m currently working on [Whatthesigma.no](https://github.com/MartinTangen06/whatthesigma.no)
+- 🔭 I’m currently working on [Stockie](https://github.com/MartinTangen06/stockie)
 
 - 🌱 I’m currently learning **React Typescript and C#/.Net**
 
@@ -11,5 +11,17 @@
 - 📫 How to reach me **martin.tangen@tangenlab.no**
 
 ---
+```css
+#monkindey { 
+  position: Oslo, Norway; 
+  height: 178cm; 
+  display: boy; 
+  background: Techical Apprentice 🔨; 
+  color: Light Blue;
+}
+```
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
